@@ -1,6 +1,5 @@
 # mvvm_fresh_news
-# https://api.codemagic.io/apps/5ff63c3aeb8402000d009d61/5ff63c3aeb8402000d009d60/status_badge.svg
-
+[![Codemagic build status](https://api.codemagic.io/apps/5ff63c3aeb8402000d009d61/5ff63c3aeb8402000d009d60/status_badge.svg)](https://codemagic.io/apps/5ff63c3aeb8402000d009d61/5ff63c3aeb8402000d009d60/latest_build)
 A new Flutter project.
 
 ## Getting Started
